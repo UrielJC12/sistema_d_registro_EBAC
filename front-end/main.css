@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #123467;
+    height: 109px;
+    display: flex;
+    align-items: center;
+    padding-left: 32px;
+}
+
+p {
+    margin: 0;
+}
+
+input {
+    background-color: #D9D9D9;
+    height: 47px;
+    width: 441px;
+}
+
+form {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+button {
+    height: 37px;
+    width: 187px;
+    margin-top: 48px;
+    background-color: #123467;
+    color: white;
+
+}
+
+.title-nav {
+    color: white;
+    font-size: 36px;
+}
+
+.subtitle {
+    font-size: 26px;
+    margin-top: 60px;
+}
